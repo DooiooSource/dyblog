@@ -8,3 +8,4 @@ test 0.2 master by jyg
 
 test 0.3 master by jyg
 test 0.4 master by jyg
+test v0.6 master by kuang
